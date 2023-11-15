@@ -1,6 +1,5 @@
-/* General Styles */
 .header a, a:hover {
-    color: #f0ad4e;
+    color: rgb(134, 182, 201);
     text-decoration: none;
 }
 
@@ -95,7 +94,7 @@ html, body {
 }
 
 .panel-info>.panel-heading {
-    background-color: #f0ad4e;
+    background-color: #59767e;
     color: white;
     border-color: transparent;
 }
@@ -116,7 +115,7 @@ html, body {
 
 /* List Group Item Styles */
 .list-group-item-warning {
-    color: #8a6d3b;
+    color: #8dafc2;
     background-color: #f9f9f9;
 }
 
